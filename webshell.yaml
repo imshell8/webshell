@@ -11,7 +11,7 @@ proxy-providers:
     type: http
     interval: 86400
     health-check: *ref_0
-    url: 'https://api.nexconvert.com/sub?target=clash&url=https%3A%2F%2Fqfbwcd.xyz%2F%3FL1N1YnNjcmlwdGlvbi9TaGFkb3dSb2NrZXRJbXBvcnRTZXJ2aWNlP3Q9c2lwMDAyJnNpZD01MzA1NCZ0b2tlbj1FUFZaVFBwY2lhSiZtbT02MzE0MCZhOGY0ZGUwZGI1YTE0YzMzYTU%3D&insert=false&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true'
+    url: ''
   sub2:
     type: http
     interval: 86400
